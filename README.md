@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilshrivastava-dev" alt="sahilshrivastava-dev" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain, UI/UX Designing and much more...**
+- 🌱 I’m currently learning **Web Development, UI/UX Designing, Back-End Development and much more...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SahilShrivastava-Dev](https://github.com/SahilShrivastava-Dev)
+- 👨‍💻 All of my projects are available at [https://github.com/YashC1711](https://github.com/YashC1711)
 
-- 💬 Ask me about **Java,C++,Python, Django, MongoDM,SQL**
+- 💬 Ask me about **Java, C++, Python, Javascript, HTML, CSS, MongoDB, SQL**
 
-- 📫 How to reach me **sahilshrivastava28@gmail.com**
+- 📫 How to reach me **yashchinawale031@gmail.com**
 
 - ⚡ Fun fact **Coffee runs through my viens😂🥴**
 
