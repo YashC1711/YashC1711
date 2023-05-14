@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hola 👋, I'm Yash Chinawale</h1>
 <h3 align="center">A enthusiastic Sophomore Computer engineering student exploring the deepest and darkest of tech in the brightest way🤩😎</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YashC1711-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yashchinawale-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YashC1711-dev&label=Profile%20views&color=0e75b6&style=flat" alt="YashC1711-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilshrivastava-dev" alt="sahilshrivastava-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YashC1711-dev" alt="YashC1711-dev" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain, UI/UX Designing and much more...**
 
