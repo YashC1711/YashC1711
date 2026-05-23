@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/YashC1711](https://github.com/YashC1711)
 
-- 💬 Ask me about **Java, C++, Python, Javascript, HTML, CSS, MongoDB, SQL**
+- 💬 Ask me about **Python, Javascript, SQL, Databricks, AWS, Snowflake, Pyspark**
 
 - 📫 How to reach me **yashchinawale031@gmail.com**
 
