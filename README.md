@@ -101,12 +101,12 @@ I'm a **Data & AI Engineer** with **2+ years of production experience** at KSB L
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YashC1711&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=YashC1711&theme=github-dark-blue&hide_border=true](https://github-readme-stats.vercel.app/api?username=YashC1711&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400)" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashC1711&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashC1711&layout=compact&theme=github_dark&hide_border=true" width="40%" />
-</p>
+</p> -->
 
 ---
 
