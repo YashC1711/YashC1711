@@ -1,83 +1,124 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Yash Chinawale 👋</h1>
 
-<!--
-**YashC1711/YashC1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hola 👋, I'm Yash Chinawale</h1>
-<h3 align="center">A enthusiastic Sophomore Computer engineering student exploring the deepest and darkest of tech in the brightest way🤩😎</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YashC1711&label=Profile%20views&color=0e75b6&style=flat" alt="YashC1711" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YashC1711" alt="YashC1711" /></a> </p>
-
-- 🌱 I’m currently learning **Web Development, UI/UX Designing, Back-End Development and much more...**
-
-- 👨‍💻 All of my projects are available at [https://github.com/YashC1711](https://github.com/YashC1711)
-
-- 💬 Ask me about **Python, Javascript, SQL, Databricks, AWS, Snowflake, Pyspark**
-
-- 📫 How to reach me **yashchinawale031@gmail.com**
-
-- ⚡ Fun fact **Coffee runs through my viens😂🥴**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yash-chinawale-91a96521b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-chinawale-91a96521b" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/yashchinawale_17/?next=https%3A%2F%2Fwww.instagram.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.instagram.com%252Flogin%252F%253Fnext%253Dhttps%25253A%25252F%25252Fwww.instagram.com%25252Flogin%25252F%25253Fnext%25253Dhttps%2525253A%2525252F%2525252Fwww.instagram.com%2525252Flogin%2525252F%2525253Fnext%2525253Dhttps%252525253A%252525252F%252525252Fwww.instagram.com%252525252Fyashchinawale_17%252525252F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashchinawale_17" height="30" width="40" /></a>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-<a href="https://cloud.google.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://react.dev/" target="_blank"> 
-<img src="https://glints.com/id/lowongan/wp-content/uploads/2020/10/logo-reactjs.jpg" alt="React,js" width="40" height="40"/> 
-</a> 
-<a href="https://www.linux.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-</a> 
+<p align="center">
+  <b>Data & AI Engineer · ETL Pipelines · LLM/RAG Systems · Cloud Infrastructure</b><br/>
+  Pune, Maharashtra, India
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashC1711&show_icons=true&locale=en&layout=compact" alt="YashC1711-dev" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-chinawale-91a96521b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YashC1711" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:yashchinawale031@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YashC1711&show_icons=true&locale=en" alt="YashC1711" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashC1711&" alt="YashC1711" /></p>
+## 🚀 About Me
+
+I'm a **Data & AI Engineer** with **2+ years of production experience** at KSB Limited (global manufacturing), delivering ETL pipelines, AI automation systems, and data infrastructure across procurement, quality, and customer-facing domains.
+
+- 🏭 **Currently:** AI & Data Engineer at **KSB Limited**, building production RAG systems and AI chatbots
+- 🎓 **B.E. Computer Science** — Dr. D.Y. Patil Institute of Technology, CGPA **9.55/10**
+- 🥇 **Shiv Chhatrapati Award** recipient — Maharashtra's highest sports honor (Speed Skating)
+- ⚡ I ship end-to-end systems: from raw ingestion to BI-ready outputs, with tests to back them up
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Query**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+
+**Data Engineering & ETL**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Azure ADF](https://img.shields.io/badge/Azure_ADF-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square)
+
+**AI & LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0067A5?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6B21A8?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Visualisation & Frontend**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+### 🏭 KSB Limited — AI & Data Engineer (Trainee) · *Jul 2024 – Present*
+
+- **RAG Pipeline:** Architected end-to-end document retrieval system (LangChain · FAISS · ChromaDB · FastAPI) on on-premises SQL Server — cut retrieval time by ~**70%** for 100+ employees
+- **Procurement Automation:** Built supplier quotation extraction pipeline (PyMuPDF · Python) — reduced manual review cycles from hours to minutes across 20+ monthly iterations
+- **WhatsApp Chatbot:** Deployed customer-facing chatbot (Jio Haptik) integrating 6+ real-time APIs for warranty queries and dealership lookups at scale
+- **Simultaneous Production Delivery:** Shipped 3+ systems (BOM Checker · Contract Reconciler · AI Chatbot) in parallel — all with unit + integration tests, replacing 100% manual QC workflows
+
+### 🏥 Total Go India LLP — Software Developer (Junior Trainee) · *Nov 2023 – Apr 2024*
+
+- Transformed ingestion pipeline across 5 unstructured source types (wearables, forms, app, doctor inputs, public data) into clean BI-ready datasets using Python & Pandas
+- Integrated live ML endpoints into React.js frontend — enabling real-time physiotherapy predictions for 100+ doctors and patients
+- Containerised 3+ pipeline modules with Docker — ensuring reproducible builds across dev and prod
+
+---
+
+## 📦 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **Securities Pricing Pipeline** | Airflow · Snowflake · AWS · Docker | EOD pricing pipeline with medallion architecture; scored 70%+ on Codebasics production readiness assessment |
+| **E-Commerce Data Pipeline** | PySpark · Databricks · Azure ADLS | Bronze-silver-gold architecture; 30% reduction in batch processing time via Spark partitioning |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashC1711&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashC1711&theme=github-dark-blue&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashC1711&layout=compact&theme=github_dark&hide_border=true" width="40%" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Shiv Chhatrapati Award** — Maharashtra government's highest sports honor for excellence in speed skating
+- 🛼 **Founded GlideX Speed Skating Academy** — scaled to 200+ athletes, managing coaches, event logistics, and operations
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashC1711&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center"><i>"Ship fast, test well, document honestly."</i></p>
